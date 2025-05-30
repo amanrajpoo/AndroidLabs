@@ -2,5 +2,22 @@
 <resources>
     <string name="app_name">AndroidLabs</string>
     <string name="hello_world">Bonjour le monde</string>
-    <string name="button_text">Je suis un bouton!</string>
+    <string name="button_text">Appuyez-moi</string>
+
+    <!-- Lab 2 translations -->
+    <string name="app_text">J\'adore Android</string>
+    <string name="switch_text">Activer/désactiver</string>
+    <string name="checkbox_text">Regardez ça!</string>
+    <string name="edit_hint">J\'adore Android</string>
+    <string name="toast_message">L\'etiquette a été mise à jour.</string>
+    <string name="snackbar_text">La case est maintenant</string>
+    <string name="undo">Annuler</string>
+    <string name="flag_desc">Bouton du drapeau</string>
+
+    <!-- Lab 3 translations -->
+    <string name="enter_name">Entrez votre nom</string>
+    <string name="name_hint">Votre nom ici</string>
+    <string name="next">Suivant</string>
+    <string name="thank_you">Merci</string>
+    <string name="dont_call_me">Ne m\'appelle pas comme ça</string>
 </resources>
