@@ -1,5 +1,19 @@
 <resources>
     <string name="app_name">AndroidLabs</string>
+
+    <!-- Previous lab -->
     <string name="hello_world">Hello World</string>
-    <string name="button_text">I\’m a button!</string>
+
+    <!-- Lab 2: Layout and UI Strings -->
+    <string name="app_text">I love Android</string>
+    <string name="switch_text">Switch on/off</string>
+    <string name="button_text">Press Me</string>
+    <string name="checkbox_text">Check this out!</string>
+    <string name="edit_hint">I love Android</string>
+
+    <!-- Lab 2: Toast, Snackbar, Accessibility -->
+    <string name="toast_message">Label has been updated.</string>
+    <string name="snackbar_text">The checkbox is now</string>
+    <string name="undo">Undo</string>
+    <string name="flag_desc">Flag Button</string>
 </resources>
