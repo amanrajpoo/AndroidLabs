@@ -6,13 +6,13 @@
 
     <!-- Lab 2 translations -->
     <string name="app_text">J\'adore Android</string>
-    <string name="switch_text">Activer/désactiver</string>
-    <string name="checkbox_text">Regardez ça!</string>
+    <string name="switch_text">Activer le mode sombre</string>
+    <string name="checkbox_text">Se souvenir de mon choix</string>
     <string name="edit_hint">J\'adore Android</string>
-    <string name="toast_message">L\'etiquette a été mise à jour.</string>
-    <string name="snackbar_text">La case est maintenant</string>
+    <string name="toast_message">Paramètres enregistrés</string>
+    <string name="snackbar_text">Ceci est une barre de notification</string>
     <string name="undo">Annuler</string>
-    <string name="flag_desc">Bouton du drapeau</string>
+    <string name="flag_desc">Drapeau du Canada</string>
 
     <!-- Lab 3 translations -->
     <string name="enter_name">Entrez votre nom</string>
@@ -21,7 +21,7 @@
     <string name="thank_you">Merci</string>
     <string name="dont_call_me">Ne m\'appelle pas comme ça</string>
 
-    <!-- ✅ Lab 4 -->
+    <!-- Lab 4: To Do App -->
     <string name="type_here">Tapez ici</string>
     <string name="urgent">Urgent</string>
     <string name="add">Ajouter</string>
@@ -29,4 +29,11 @@
     <string name="delete_message">La ligne sélectionnée est :</string>
     <string name="delete_positive">Oui</string>
     <string name="delete_negative">Non</string>
+
+    <!-- Cursor Info -->
+    <string name="cursor_db_version">Version BD : </string>
+    <string name="cursor_column_count">Nombre de colonnes : </string>
+    <string name="cursor_column_name">Nom de la colonne : </string>
+    <string name="cursor_row_count">Nombre de lignes : </string>
+    <string name="cursor_row_data">Ligne : </string>
 </resources>
