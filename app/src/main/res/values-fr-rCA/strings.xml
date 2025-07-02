@@ -36,4 +36,9 @@
     <string name="cursor_column_name">Nom de la colonne : </string>
     <string name="cursor_row_count">Nombre de lignes : </string>
     <string name="cursor_row_data">Ligne : </string>
+
+    <!-- Lab 6: Image Slider -->
+    <string name="image_slider_title">Visionneuse d\'images</string>
+    <string name="next_button">Suivant</string>
+    <string name="image_desc">Image affichée dans le curseur</string>
 </resources>
