@@ -1,44 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- App name -->
     <string name="app_name">AndroidLabs</string>
     <string name="hello_world">Bonjour le monde</string>
-    <string name="button_text">Appuyez-moi</string>
+    <string name="button_label">Cliquez-moi</string>
 
-    <!-- Lab 2 translations -->
-    <string name="app_text">J\'adore Android</string>
-    <string name="switch_text">Activer le mode sombre</string>
-    <string name="checkbox_text">Se souvenir de mon choix</string>
-    <string name="edit_hint">J\'adore Android</string>
+    <!-- Lab 2 -->
     <string name="toast_message">Paramètres enregistrés</string>
     <string name="snackbar_text">Ceci est une barre de notification</string>
     <string name="undo">Annuler</string>
     <string name="flag_desc">Drapeau du Canada</string>
 
-    <!-- Lab 3 translations -->
+    <!-- Lab 3 -->
     <string name="enter_name">Entrez votre nom</string>
     <string name="name_hint">Votre nom ici</string>
     <string name="next">Suivant</string>
     <string name="thank_you">Merci</string>
     <string name="dont_call_me">Ne m\'appelle pas comme ça</string>
 
-    <!-- Lab 4: To Do App -->
+    <!-- Lab 4 -->
     <string name="type_here">Tapez ici</string>
     <string name="urgent">Urgent</string>
     <string name="add">Ajouter</string>
-    <string name="delete_title">Voulez-vous supprimer ceci ?</string>
+    <string name="delete_title">Souhaitez-vous supprimer ceci ?</string>
     <string name="delete_message">La ligne sélectionnée est :</string>
     <string name="delete_positive">Oui</string>
     <string name="delete_negative">Non</string>
 
-    <!-- Cursor Info -->
-    <string name="cursor_db_version">Version BD : </string>
-    <string name="cursor_column_count">Nombre de colonnes : </string>
-    <string name="cursor_column_name">Nom de la colonne : </string>
-    <string name="cursor_row_count">Nombre de lignes : </string>
-    <string name="cursor_row_data">Ligne : </string>
-
-    <!-- Lab 6: Image Slider -->
-    <string name="image_slider_title">Visionneuse d\'images</string>
-    <string name="next_button">Suivant</string>
-    <string name="image_desc">Image affichée dans le curseur</string>
-</resources>
+    <!-- Lab 7 -->
+        <string name="app_title">CST2335 Lab 7</string>
+        <string name="label_height">Hauteur :</string>
+        <string name="label_mass">Masse :</string>
+    </resources>

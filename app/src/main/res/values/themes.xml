@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.AndroidLabs" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Base.Theme.AndroidLabs" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- NoActionBar removes the top bar -->
     </style>
 
