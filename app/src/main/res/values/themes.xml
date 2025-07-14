@@ -1,8 +1,8 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.AndroidLabs" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- NoActionBar removes the top bar -->
+<resources>
+    <style name="Theme.AndroidLabs" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/purple_700</item>
     </style>
-
-    <style name="Theme.AndroidLabs" parent="Base.Theme.AndroidLabs" />
 </resources>

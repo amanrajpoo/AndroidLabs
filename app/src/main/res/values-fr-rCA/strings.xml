@@ -30,4 +30,29 @@
         <string name="app_title">CST2335 Lab 7</string>
         <string name="label_height">Hauteur :</string>
         <string name="label_mass">Masse :</string>
-    </resources>
+
+    <!-- Lab 8 -->
+
+    <!-- Titres des éléments de la barre d’outils -->
+    <string name="choice1">Choix 1</string>
+    <string name="choice2">Choix 2</string>
+    <string name="other">Autre</string>
+
+    <!-- Messages Toast pour les clics sur la barre d’outils -->
+    <string name="choice1_toast">Vous avez cliqué sur l’élément 1</string>
+    <string name="choice2_toast">Vous avez cliqué sur l’élément 2</string>
+    <string name="other_toast">Vous avez cliqué sur Autre</string>
+
+    <!-- Libellés du tiroir de navigation -->
+    <string name="nav_home">Accueil</string>
+    <string name="nav_dad_joke">Blague de papa</string>
+    <string name="nav_exit">Quitter</string>
+
+    <!-- Descriptions pour ouverture/fermeture du tiroir -->
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+
+    <!-- Texte de la blague “Dad Joke” -->
+    <string name="dad_joke_text">Comment appelle-t-on un hot-dog sur roues ? Un casse-croûte rapide !</string>
+
+</resources>

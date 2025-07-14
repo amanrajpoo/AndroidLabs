@@ -1,6 +1,5 @@
 <resources>
     <!-- App name -->
-    <string name="app_name">AndroidLabs</string>
     <string name="hello_world">Hello World</string>
     <string name="button_label">Click Me</string>
 
@@ -27,7 +26,32 @@
     <string name="delete_negative">No</string>
 
     <!-- Lab 7 -->
-        <string name="app_title">CST2335 Lab 7</string>
-        <string name="label_height">Height:</string>
-        <string name="label_mass">Mass:</string>
-    </resources>
+    <string name="app_title">CST2335 Lab 7</string>
+    <string name="label_height">Height:</string>
+    <string name="label_mass">Mass:</string>
+
+    <!-- Lab 8 -->
+    <string name="app_name">AndroidLabs</string>
+
+    <!-- Toolbar item titles -->
+    <string name="choice1">Choice 1</string>
+    <string name="choice2">Choice 2</string>
+    <string name="other">Other</string>
+
+    <!-- Toast messages for toolbar clicks -->
+    <string name="choice1_toast">You clicked on item 1</string>
+    <string name="choice2_toast">You clicked on item 2</string>
+    <string name="other_toast">You clicked on Other</string>
+
+    <!-- Drawer labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_dad_joke">Dad Joke</string>
+    <string name="nav_exit">Exit</string>
+
+    <!-- Drawer open/close content descriptions -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Dad joke text -->
+    <string name="dad_joke_text">What do you call a hot dog on wheels? Fast food!</string>
+</resources>
